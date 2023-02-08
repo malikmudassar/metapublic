@@ -266,7 +266,7 @@
         width: 47%;
     }
     .btngroups {
-        margin: 35px 0px 50px;
+        /* margin: 35px 0px 50px; */
         display: flex;
         flex-wrap: wrap;
     }
