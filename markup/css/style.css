@@ -115,6 +115,14 @@ p {
     background-color: #FAF8FF;
     min-height: 630px;
 }
+.hero-section  {
+    background-image: url("../img/hero-bg.svg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #FAF8FF;
+    min-height: 630px;
+}
 .hero-section .hero-inner {
     margin: 114px 0px 106px;
     padding: 0px;
