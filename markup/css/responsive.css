@@ -279,6 +279,9 @@
     .meta-db-sec  {
         padding: 20px 0px 60px; 
     }
+    .you-need-sec {
+        height: auto !important;
+    }   
     .slider-sec {
         padding: 20px 0px 60px;
     } 
