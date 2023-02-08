@@ -282,6 +282,13 @@
     .you-need-sec {
         height: auto !important;
     }   
+
+    .card {
+        min-height: 540px;
+    }
+    .joinus-btn {
+        position: relative;
+    }
     .slider-sec {
         padding: 20px 0px 60px;
     } 
