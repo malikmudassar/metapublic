@@ -419,6 +419,9 @@ section.meta-translate-sec {
     position: relative;
     z-index: 0;
 }
+.customCards .col-md-4 {
+    margin-bottom: 20px;
+}
 .cards li {
     list-style: disc;
     margin-bottom: 17px;
