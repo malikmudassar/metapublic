@@ -288,6 +288,7 @@
     }
     .joinus-btn {
         position: relative;
+        bottom: -26px !important;
     }
     .slider-sec {
         padding: 20px 0px 60px;
