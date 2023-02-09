@@ -1276,3 +1276,24 @@ ul.focus-List li:before {
     left: 0;
     top: -3px;
 }
+
+.faq-sec-hero {
+    background-image: url("../img/Frame\ 423.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 40px 0px 90px;
+    min-height: 300px;
+}
+
+.faq-sec-hero h3 {
+    color: white;
+    margin-bottom: 41px;
+    margin-top: 50px;
+    margin-left: 100px;
+    font-size: 3rem;
+}
+.faq-sec-hero span {
+    margin-left: 100px;
+    font-size: 3rem;
+}
