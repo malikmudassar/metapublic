@@ -1353,8 +1353,6 @@ ul.focus-List li:before {
         font-size: 20px;
         line-height: 26px;
         position: relative;
-        margin-left: 30px;
-        border-bottom-left-radius: 0;
     }
     .faq-list {
         max-width: 1144px;
