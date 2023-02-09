@@ -1294,6 +1294,8 @@ ul.focus-List li:before {
     font-size: 3rem;
 }
 .faq-sec-hero span {
+    color: white;
+    font-weight: bolder;
     margin-left: 100px;
     font-size: 3rem;
 }
