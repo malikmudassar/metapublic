@@ -561,4 +561,12 @@
         background-size: cover;
         background-position: left;
     }
+    .you-needContent .btngroups .btn-primary {
+        width:100%;
+    }
+    .you-needContent .btngroups .btn.btn-outline-primary {
+        width: 100%;
+        margin-left:0px;
+        margin-top:10px;
+    }
 }
