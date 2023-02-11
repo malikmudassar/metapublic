@@ -557,4 +557,8 @@
     .accordion .card {
         min-height: 65px !important;
     }
+    .heart {
+        background-size: cover;
+        background-position: left;
+    }
 }
