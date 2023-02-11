@@ -1348,6 +1348,9 @@ ul.focus-List li:before {
     border-right-color: #fff;
     transform: rotate(-45deg);
 }
+.trans-res {
+    display: none;
+}
 @media only screen and (min-width: 1264px) {
     .faq-list__title {
         font-size: 20px;
@@ -1377,4 +1380,14 @@ ul.focus-List li:before {
         margin-bottom: 16px;
         padding: 30px 40px;
     }
+
 }
+@media only screen and (min-width: 350px) and (max-width: 550px) {
+.trans-res {
+    display: flex;
+}
+.reg-res {
+    display: none;
+}
+}
+
