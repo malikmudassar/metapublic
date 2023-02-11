@@ -547,9 +547,10 @@
     .investment_Wrap .card {
         min-height: 445px;
     }
-    @media screen and (min-width:345px)  and (max-width:550px) {
-        .card {
-            min-height: 350px;
-        }
+    
+}
+@media screen and (min-width:345px)  and (max-width:550px) {
+    .card {
+        min-height: 350px !important;
     }
 }
