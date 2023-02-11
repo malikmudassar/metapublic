@@ -554,4 +554,7 @@
     .card {
         min-height: 350px !important;
     }
+    .accordion .card {
+        min-height: 65px;
+    }
 }
