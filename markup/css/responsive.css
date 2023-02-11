@@ -298,6 +298,7 @@
     }
     .slider-sec .metadbContent {
         margin-left: 0px!important;
+        padding-bottom: 25px !important;
     }
     .slider-sec .swiper-horizontal>.swiper-pagination-bullets, .swiper-pagination-bullets.swiper-pagination-horizontal, .swiper-pagination-custom, .swiper-pagination-fraction {
         left: 0px;
