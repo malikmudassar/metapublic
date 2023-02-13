@@ -569,4 +569,13 @@
         margin-left:0px;
         margin-top:10px;
     }
+    .faq-sec-hero {
+        text-align: center;
+    }
+    .faq-sec-hero > h3 {
+        font-size: 39px;
+    }
+    .faq-sec-hero > span {
+        font-size: 39px;
+    }
 }
