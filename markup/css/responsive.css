@@ -569,6 +569,9 @@
         margin-left:0px;
         margin-top:10px;
     }
+    .faq-res {
+        display: none;
+    }
     .faq-sec-hero {
         text-align: center !important;
     }
