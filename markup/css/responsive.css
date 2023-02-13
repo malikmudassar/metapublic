@@ -572,6 +572,14 @@
     .faq-res {
         display: none;
     }
+    .faq-sec-res-content {
+        display: inline;
+    }
+
+    .faq-sec-res-content .faq-label{
+        font-size: 30px;
+        color: #fff;
+    }
     .faq-sec-hero {
         text-align: center !important;
     }

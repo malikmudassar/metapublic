@@ -1299,6 +1299,9 @@ ul.focus-List li:before {
     margin-left: 150px;
     font-size: 3rem;
 }
+.faq-sec-res-content {
+    display: none;
+}
 .faq-list {
     width: 100%;
     margin: 0 auto;
