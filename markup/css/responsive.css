@@ -577,8 +577,9 @@
     }
 
     .faq-sec-res-content .faq-label{
-        font-size: 32px;
+        font-size: 35px;
         color: #fff;
+        margin-top:20px;
     }
     .faq-sec-hero {
         text-align: center !important;
