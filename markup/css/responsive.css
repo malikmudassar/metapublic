@@ -570,12 +570,13 @@
         margin-top:10px;
     }
     .faq-sec-hero {
-        text-align: center;
+        text-align: center !important;
     }
-    .faq-sec-hero > h3 {
-        font-size: 39px;
+    .faq-sec-hero h3 {
+        margin:0 auto;
+        font-size: 39px !important;
     }
-    .faq-sec-hero > span {
-        font-size: 39px;
+    .faq-sec-hero span {
+        font-size: 39px !important;
     }
 }
