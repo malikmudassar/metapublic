@@ -592,4 +592,7 @@
     .faq-sec-hero span {
         font-size: 39px !important;
     }
+    .meta-creator-banner {
+        min-height: 60vh;
+    }
 }
