@@ -1138,7 +1138,7 @@ ul.focus-List li:before {
     box-shadow: 0px 0px 4px rgb(0 0 0 / 4%), 0px 0px 16px rgb(0 0 0 / 8%);
     border-radius: 20px;
     padding: 53px 22px;
-    min-height: 255px;
+    min-height: 225px;
     margin-top: 72px;
     position: relative;
 }
