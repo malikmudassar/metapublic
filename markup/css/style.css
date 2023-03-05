@@ -1406,6 +1406,9 @@ ul.focus-List li:before {
 .c-white {
     color:white;
 }
+.c-black {
+    color:black;
+}
 .card {
     border-radius: 20px;
 }
