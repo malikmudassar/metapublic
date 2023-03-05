@@ -1395,6 +1395,10 @@ ul.focus-List li:before {
 }
 
 .sec-vision {
-    background-color: #323341;
+    background-color: #1a1e23;
     color: white;
+}
+
+.sec-vision h1 h2 h5 p {
+    color:white;
 }
