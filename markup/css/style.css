@@ -1395,11 +1395,15 @@ ul.focus-List li:before {
 }
 
 .sec-vision {
-    background-color: #1a1e23;
+    background-color: #af1556;
     color: white;
+    max-height: 600px;
 }
 
 .sec-vision h1 h2 h5 p {
+    color:white;
+}
+.c-white {
     color:white;
 }
 @import url('https://fonts.googleapis.com/css?family=Exo:400,700');
