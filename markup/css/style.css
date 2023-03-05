@@ -1397,7 +1397,7 @@ ul.focus-List li:before {
 .sec-vision {
     background-color: #af1556;
     color: white;
-    max-height: 600px;
+    max-height: 620px;
 }
 
 .sec-vision h1 h2 h5 p {
@@ -1405,6 +1405,12 @@ ul.focus-List li:before {
 }
 .c-white {
     color:white;
+}
+.card {
+    border-radius: 20%;
+}
+.card-img-top {
+    border-radius: 20px !important;
 }
 @import url('https://fonts.googleapis.com/css?family=Exo:400,700');
 
