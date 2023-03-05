@@ -1407,7 +1407,7 @@ ul.focus-List li:before {
     color:white;
 }
 .card {
-    border-radius: 20%;
+    border-radius: 20px;
 }
 .card-img-top {
     border-radius: 20px !important;
