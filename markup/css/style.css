@@ -1400,6 +1400,8 @@ ul.focus-List li:before {
     padding-bottom:5px;
 }
 
+
+
 .sec-vision h1 h2 h5 p {
     color:white;
 }
@@ -1554,4 +1556,25 @@ ul.focus-List li:before {
         border-radius: 50%;
     }
 
+}
+.breadcrumps .link-item {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 15px;
+    color: #8a8a8a;
+    padding-left: 33px;
+    position: relative;
+}
+.breadcrumps .link-item:first-child {
+    padding-left: 0;
+}
+@media (min-width: 992px){
+    .breadcrumps {
+        margin-bottom: 44px;
+    }
+    .breadcrumps .link-item {
+        font-size: 18px;
+        line-height: 22px;
+    }
 }
