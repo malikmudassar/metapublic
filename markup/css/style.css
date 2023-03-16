@@ -1578,3 +1578,26 @@ ul.focus-List li:before {
         line-height: 22px;
     }
 }
+.cat-title {
+    font-size: 14px;
+}
+
+.cat-title a {
+    color:#1d1b28;
+}
+.post-title {
+    margin-top:10px;
+}
+.post-title a {
+    margin-top:10px;
+    font-size: 16px;
+    font-weight: 700;
+    color: black;
+}
+.footer-creds {
+    font-size: 12px;
+    margin-top: 10px;
+}
+.post-item {
+    margin-top:30px;
+}
