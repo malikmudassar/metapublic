@@ -1619,4 +1619,7 @@ ul.focus-List li:before {
     .p-5 {
         padding: 10px !important;
     }
+    .popular-link {
+        display: block;
+    }
 }
