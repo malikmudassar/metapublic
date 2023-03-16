@@ -1607,3 +1607,16 @@ ul.focus-List li:before {
     background-color: #f9f9f9;
     padding-bottom:200px;
 }
+
+@media (max-width: 600px) {
+    .sidebar {
+        margin-top: 20px;
+        padding-top: 50px;
+    }
+    .popular .title {
+        font-size:16px;
+    }
+    .p-5 {
+        padding: 10px !important;
+    }
+}
