@@ -1570,6 +1570,16 @@ ul.focus-List li:before {
     padding-left: 0;
 }
 @media (min-width: 992px){
+    .article-comment-form .btn-submit {
+        margin: 12px auto 0 0;
+        width: auto;
+        padding: 12px 30px;
+        display: block;
+        margin-bottom: 14px;
+        -ms-flex-item-align: baseline;
+        align-self: baseline;
+        font-size: 12px;
+    }
     .breadcrumps {
         margin-bottom: 44px;
     }
@@ -1621,5 +1631,74 @@ ul.focus-List li:before {
     }
     .popular-link {
         display: block;
+    }
+}
+.article-comment-form {
+    margin-top: 60px;
+}
+.article-comment-form .form-header {
+    font-family: Montserrat,sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    color: #1e1e1e;
+    line-height: 120%;
+    background-color: transparent;
+    text-align: initial;
+    font-size: 18px;
+    margin-bottom: 16px;
+}
+.article-comment-form .form-control, .article-comment-form textarea {
+    background: #fff;
+    border: 1px solid #e0e0e0;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    border-radius: 2px;
+    display: block;
+    margin: 0 auto;
+    font-size: 12px;
+    line-height: 120%;
+    color: #1e1e1e;
+}
+.btn-black {
+    background-color: #1e1e1e;
+    color: #fff;
+}
+.article-comment-form .btn-submit {
+    margin: 12px auto 0;
+    width: 100%;
+    padding: 12px 0;
+    display: block;
+    margin-bottom: 14px;
+    -ms-flex-item-align: baseline;
+    align-self: baseline;
+    font-size: 12px;
+}
+.btn:not(.dropdown-toggle) {
+    width: 100%;
+    font-family: Gilroy,sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: .04em;
+    text-transform: uppercase;
+    -webkit-transition: .3s;
+    transition: .3s;
+    text-align: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    border-radius: 7px!important;
+    padding: 26px 0 27px;
+}
+@media (min-width:1200px){
+    .article-comment-form .form-control, .article-comment-form textarea {
+        font-size: 14px;
+    }
+    .article-comment-form .form-header {
+        font-size: 22px;
+    }
+    .article-comment-form .btn-submit {
+        font-size: 16px;
     }
 }
