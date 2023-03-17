@@ -1715,3 +1715,6 @@ label {
     margin-bottom: 5px;
     font-weight: 700;
 }
+.boxesWrap img {
+    border: 0.5px dotted grey;
+}
