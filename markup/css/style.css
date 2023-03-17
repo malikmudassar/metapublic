@@ -1704,6 +1704,9 @@ ul.focus-List li:before {
     .article-comment-form .form-group label {
         font-size: 16px;
     }
+    .article-comment-form .form-control, .article-comment-form textarea {
+        font-size: 14px;
+    }
 }
 label {
     display: inline-block;
