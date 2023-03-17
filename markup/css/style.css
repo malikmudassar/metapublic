@@ -1701,4 +1701,13 @@ ul.focus-List li:before {
     .article-comment-form .btn-submit {
         font-size: 16px;
     }
+    .article-comment-form .form-group label {
+        font-size: 16px;
+    }
+}
+label {
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: 700;
 }
