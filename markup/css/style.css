@@ -165,6 +165,9 @@ section.hero-section.meta-translate {
     font-weight: 700;
     color: #000000;
 }
+.boxesWrap img {
+    height: 100px;
+}
 /*********************** BOXES SEC ***************/
 section.boxes-sec {
     padding: 18px 0px 27px;
