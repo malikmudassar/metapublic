@@ -455,6 +455,9 @@ section.meta-translate-sec {
 .card-head {
     margin-left:-20px;
 }
+.card-head img {
+    height: 269px !important;
+}
 .card-box {
     background: white;
     padding: 25px 25px 25px 45px;
