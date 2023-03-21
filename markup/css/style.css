@@ -252,6 +252,9 @@ section.boxes-sec h5 {
 .delivered-sec  .row.owl-carousel.owl-theme.owl-loaded.owl-drag {
     margin: 0px;
 }
+.delivered-sec  .col-md-3.item iframe {
+    min-height: 220px !important;
+}
 .delivered-sec  .card {
     border-radius: 20px;
     padding: 10px;
