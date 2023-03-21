@@ -247,6 +247,7 @@ section.boxes-sec h5 {
     display: flex;
     max-width: 100%;
     padding: 0px 5px;
+    min-height: 332px !important;
 }
 .delivered-sec  .row.owl-carousel.owl-theme.owl-loaded.owl-drag {
     margin: 0px;
