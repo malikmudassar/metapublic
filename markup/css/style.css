@@ -276,13 +276,13 @@ section.boxes-sec h5 {
     bottom: 85px;
 }
 .cardHeader h6 {
-    color: white;
+    color: rgb(16, 16, 16);
     font-weight: 700;
     font-size: 16px;
     line-height: 18px;
 }
 .cardHeader p {
-    color:white;
+    color:rgb(14, 13, 13);
     font-weight: 400;
     font-size: 14px;
     line-height: 19px;
