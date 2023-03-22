@@ -107,13 +107,13 @@ p {
 }
 
 /*********************** HERO-SEC ***************/
-.hero-section , .meta-translate  {
+.meta-translate  {
     background-image: url("../img/hero-bg.svg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     background-color: #FAF8FF;
-    min-height: 630px;
+    min-height: 580px;
 }
 .hero-section  {
     background-image: url("../img/hero-bg.svg");
@@ -121,7 +121,7 @@ p {
     background-repeat: no-repeat;
     background-size: cover;
     background-color: #FAF8FF;
-    min-height: 612px;
+    min-height: 580px;
 }
 .hero-section .hero-inner {
     margin: 114px 0px 106px;
