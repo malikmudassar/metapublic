@@ -1591,3 +1591,6 @@ ul.focus-List li:before {
     }
 
 }
+.owl-carousel .owl-item img {
+    margin-bottom:60px;
+}
