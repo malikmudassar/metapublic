@@ -123,6 +123,14 @@ p {
     background-color: #FAF8FF;
     min-height: 580px;
 }
+.hero-bg-small {
+    background-image: url("../img/hero-bg-small.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #FAF8FF;
+    height:50px;
+}
 .hero-section .hero-inner {
     margin: 114px 0px 106px;
     padding: 0px;
